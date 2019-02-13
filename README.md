@@ -31,7 +31,5 @@ My thought/working process: <br>
 4. Finished.
 <br>
 
-<br>
-
 <strong> Sound only comes out for the G arrowdown because I still need to learn/figure out how to git clone repos properly </strong>
 
