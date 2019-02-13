@@ -5,6 +5,11 @@ The box should also change in dimensions.
 
 My thought process: <br>
 
-1. Console log the event (e) for the key press
+** 1. Console log the event (e) for the key press **
+
+<ul> Did this with if statements for testing</ul>
+<ul> Realised that if statemnets are too repetitive so should do document.querySelectorAll</ul>
+
+
 2. Associate it to the sound
 3. 

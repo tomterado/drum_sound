@@ -58,6 +58,20 @@
   <audio data-key="76" src="sounds/tink.wav"></audio>
 
 <script>
+    function keyPress() {
+        window.addEventListener("keydown", function(e) {
+            console.log(e);
+            if (e.keyCode === 65){
+                console.log("You pressed a");
+            } else if (e.keyCode === 83){
+                console.log("You pressed s");
+            } else {
+                console.log("Not a key on the drum menu");
+            }
+        });
+    }
+    
+    keyPress();
 
 </script>
 
