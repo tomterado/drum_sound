@@ -7,7 +7,13 @@ My thought process: <br>
 
 1. Console log the event (e) for the key press
 - Did this with if statements for testing
-- Realised that if statemnets are too repetitive so should do document.querySelectorAll
+- Realised that if statemnets are too repetitive so should do document.querySelector
+- Learned about ES6 JS backticks = called Template Strings
+- Got the audio to play
 
-2. Associate it to the sound
+<br>
+
+2. Create the CSS transition 
+- 
+
 3. 
