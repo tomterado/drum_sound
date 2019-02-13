@@ -3,7 +3,7 @@ This is a project done as a part of the Odin Project.
 Objective is to ensure that when the corresponding key is pressed, a sound is made. 
 The box should also change in dimensions.
 
-Time: 94 mins to complete.
+Time: <strong> 94 mins to complete. </strong>
 
 My thought/working process: <br>
 
@@ -33,5 +33,5 @@ My thought/working process: <br>
 
 <br>
 
-*** Sound only comes out for the G arrowdown because I still need to learn/figure out how to git clone repos properly ***
+<strong> Sound only comes out for the G arrowdown because I still need to learn/figure out how to git clone repos properly </strong>
 
