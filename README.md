@@ -31,7 +31,7 @@ My thought/working process: <br>
 4. Finished.
 <br>
 
-Time: 94 mins to complete.
 <br>
-*** *Sound only comes out for the G arrowdown because I still need to learn/figure out how to git clone repos properly* ***
+
+*** Sound only comes out for the G arrowdown because I still need to learn/figure out how to git clone repos properly ***
 
